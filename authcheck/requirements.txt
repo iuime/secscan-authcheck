@@ -1,7 +1,8 @@
 Flask==1.0.2
 requests==2.21.0
 Flask-Cors==3.0.8
-mongoengine==0.18.2
-APScheduler==3.6.0
+mongoengine==0.23.1
+APScheduler==3.8.1
 uWSGI==2.0.18
 redis==3.2.1
+tzlocal==2.1
