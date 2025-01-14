@@ -1,4 +1,4 @@
-FROM alpine:3.9.4
+FROM alpine:3.21.2
 
 MAINTAINER sec@zto.cn
 
